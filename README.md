@@ -33,6 +33,6 @@ Este trabajo presenta el diseño, implementación y validación experimental de 
 
 ---
 
-### 📬 Contacto
+# Contacto
 **Juan Ignacio Figna** | Ingeniero Electrónico |
 https://www.linkedin.com/in/juan-figna/    
