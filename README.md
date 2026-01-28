@@ -13,7 +13,7 @@
 
 Estoy organizando y limpiando los archivos fuente del proyecto para subirlos ordenadamente. En los próximos días estarán disponibles aquí.
 
-# ¿Dónde ver el código AHORA?
+# ¿Dónde ver el código?
 Mientras termino de subir los archivos, **todo el código fuente, los diagramas esquemáticos y la documentación técnica completa** se encuentran disponibles en el Informe Final (PDF), incluyendo sus **ANEXOS** .
 
 Puede descargar o visualizar el informe completo en formato PDF aquí mismo:
