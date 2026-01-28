@@ -26,7 +26,7 @@ Puede descargar o visualizar el informe completo en formato PDF aquí mismo:
 Este trabajo presenta el diseño, implementación y validación experimental de un sistema de comunicaciones **OFDM (Orthogonal Frequency Division Multiplexing)** sobre la red eléctrica domiciliaria de 220V (Power Line Communications).
 
 **Highlights:**
-* Implementación en **FPGA (Zybo Z7 - Zynq 7000)**.
+* Implementación en **FPGA (Zedboard - Zynq 7000)**.
 * Uso de **Analog Front End (AFE)** especial.
 * Validación con arquitectura **Hardware-in-the-Loop**.
 * Tasa de transmisión bruta alcanzada: **4.05 Mbps**.
